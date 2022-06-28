@@ -13,7 +13,7 @@ The notation follows that of the article.
 
 All Euler characteristics will have values in the Grothendieck group of ell-adic absolute Galois representations. The S_n-equivariant Euler characteristics  also keep track of the action of the symmetric group S_n, whose irreducible representations will be indexed in the usual fashion by Schur functions s[mu] with mu a partition of $n$.  
 
--The file "M3n.txt" contains the S_n-equivaraint Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
+-The file "M3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
 
 -The file "Mbar3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
 
